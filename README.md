@@ -1,10 +1,6 @@
 # slideapp
 
-<figure class="video_container">
-  <video controls="true" >
-    <source src="https://github.com/roninprogrammer/slide-app/blob/master/video.mp4" type="video/mp4">
-  </video>
-</figure>
+![tag](https://github.com/roninprogrammer/slide-app/blob/master/video.mp4)
 
 
 
