@@ -1,7 +1,7 @@
 # slideapp
 
-https://user-images.githubusercontent.com/20946895/110646270-b47b1a00-81f1-11eb-8fc2-d4861fd49cb7.mp4
 
+[![Watch the video](https://user-images.githubusercontent.com/20946895/110646843-44b95f00-81f2-11eb-8240-957536541998.jpeg)](https://github.com/roninprogrammer/slide-app/blob/master/video.mp4)
 
 ## Getting Started
 
